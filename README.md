@@ -1,9 +1,9 @@
 # Branching-practice
 Practicing the branching system on git
 ## Importance Of Branching system on git
-- easy axccessibily of work
+- easy accessibility of work
 - avoid redundancy
 - minimizes errors
-## Aouther
+## Author
 - Daniel Micah
 - MHDGM
